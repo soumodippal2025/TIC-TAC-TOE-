@@ -4,7 +4,7 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 ## 🖼️ Demo
 
-https://github.com/soumodippal2025/TIC-TAC-TOE-GAME/blob/main/Screenshot.png?raw=true
+![image alt](https://github.com/soumodippal2025/TIC-TAC-TOE-GAME/blob/main/Screenshot.png?raw=true)
 ## 🚀 Features
 
 - Interactive 3x3 grid
